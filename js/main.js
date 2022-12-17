@@ -21,7 +21,7 @@ function main() {
     resultCalculation(dataset);
 
     // mengurutkan hasil berdasarkan pembobotan matriks tertinggi
-    dataset.alternatives = dataset?.alternatives.sort((alt1, alt2) => (alt1.result < alt2.result) ? 1 : -1);
+    dataset?.alternatives.sort((alt1, alt2) => (alt1.result < alt2.result) ? 1 : -1);
 
     // menampilkan hasil menggunakan std out CLI
     console.log('================================');
