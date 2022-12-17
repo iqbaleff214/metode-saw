@@ -1,8 +1,6 @@
 # metode-saw
 Penerapan metode SAW (Simple Additive Weighting) dalam berbagai bahasa pemrograman
 
----
-
 ## Studi Kasus
 
 Studi kasus yang digunakan adalah untuk menentukan mahasiswa yang berhak mendapatkan beasiswa Bidik Misi di Politeknik Negeri Banjarmasin. Data yang didapat berasal dari jurnal terlampir di bagian referensi.
@@ -32,8 +30,6 @@ Studi kasus yang digunakan adalah untuk menentukan mahasiswa yang berhak mendapa
 | ke 9    | 1.000.000 | 6 | 83,735200000000 | 140.000 | 18.000 |
 | ke 2154 | 1.250.000 | 3 | 92,291666666667 | 140.000 | 18.000 |
 
----
-
 ## Cara Menjalankan
 
 Untuk menjalankan program, silakan gunakan CLI yang biasa Anda gunakan. Berikut cara menjalankan untuk masing-masing bahasa pemrograman:
@@ -48,8 +44,6 @@ Untuk menjalankan program, silakan gunakan CLI yang biasa Anda gunakan. Berikut 
     make go-run
     ```
 
-
----
 
 ## Referensi
 - [Sistem Pendukung Keputusan Penerimaan Beasiswa Bidik Misi di POLIBAN Dengan Metode SAW Berbasis Web](http://join.if.uinsgd.ac.id/index.php/join/article/view/101)
