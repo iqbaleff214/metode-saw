@@ -32,6 +32,22 @@ Studi kasus yang digunakan adalah untuk menentukan mahasiswa yang berhak mendapa
 | ke 9    | 1.000.000 | 6 | 83,735200000000 | 140.000 | 18.000 |
 | ke 2154 | 1.250.000 | 3 | 92,291666666667 | 140.000 | 18.000 |
 
+---
+
+## Cara Menjalankan
+
+Untuk menjalankan program, silakan gunakan CLI yang biasa Anda gunakan. Berikut cara menjalankan untuk masing-masing bahasa pemrograman:
+
+-   [Go](https://go.dev/)
+    ```sh
+    go run ./go/main.go
+    ```
+    atau bisa juga dengan menggunakan
+
+    ```sh
+    make go-run
+    ```
+
 
 ---
 
