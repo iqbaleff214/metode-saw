@@ -21,8 +21,7 @@ function main(): void {
     $dataset = resultCalculation($dataset);
 
 	// mengurutkan hasil berdasarkan pembobotan matriks tertinggi
-    usort($dataset['alternatives'], fn($alt1, $alt2) => (int) ($alt1['result'] <=> $alt2['result']));
-    $dataset['alternatives'] = array_reverse($dataset['alternatives']);
+    usort($dataset['alternatives'], fn($alt1, $alt2) => (int) -($alt1['result'] <=> $alt2['result']));
 
 	// menampilkan hasil menggunakan std out CLI
     echo '================================' . PHP_EOL;
