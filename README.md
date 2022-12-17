@@ -56,6 +56,17 @@ Untuk menjalankan program, silakan gunakan CLI yang biasa Anda gunakan. Berikut 
     ```
     *) rekomendasi: `PHP 8.1.13`
 
+-   [JavaScript](https://nodejs.org/en/)
+    ```sh
+    node ./js/main.js
+    ```
+    atau bisa juga dengan menggunakan
+
+    ```sh
+    make node-run
+    ```
+    *) rekomendasi: `node v18.12.1`
+
 
 ## Referensi
 - [Sistem Pendukung Keputusan Penerimaan Beasiswa Bidik Misi di POLIBAN Dengan Metode SAW Berbasis Web](http://join.if.uinsgd.ac.id/index.php/join/article/view/101)

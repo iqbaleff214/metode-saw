@@ -3,3 +3,6 @@ go-run:
 
 php-run:
 	php ./php/main.php
+
+node-run:
+	node ./js/main.js
