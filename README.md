@@ -45,6 +45,17 @@ Untuk menjalankan program, silakan gunakan CLI yang biasa Anda gunakan. Berikut 
     ```
     *) rekomendasi: `go1.19`
 
+-   [PHP](https://www.php.net/)
+    ```sh
+    php ./php/main.php
+    ```
+    atau bisa juga dengan menggunakan
+
+    ```sh
+    make php-run
+    ```
+    *) rekomendasi: `PHP 8.1.13`
+
 
 ## Referensi
 - [Sistem Pendukung Keputusan Penerimaan Beasiswa Bidik Misi di POLIBAN Dengan Metode SAW Berbasis Web](http://join.if.uinsgd.ac.id/index.php/join/article/view/101)
