@@ -67,6 +67,17 @@ Untuk menjalankan program, silakan gunakan CLI yang biasa Anda gunakan. Berikut 
     ```
     *) rekomendasi: `node v18.12.1`
 
+-   [Ruby](https://www.ruby-lang.org/en/)
+    ```sh
+    ruby ./ruby/main.rb
+    ```
+    atau bisa juga dengan menggunakan
+
+    ```sh
+    make ruby-run
+    ```
+    *) rekomendasi: `ruby 3.0.2p107`
+
 
 ## Referensi
 - [Sistem Pendukung Keputusan Penerimaan Beasiswa Bidik Misi di POLIBAN Dengan Metode SAW Berbasis Web](http://join.if.uinsgd.ac.id/index.php/join/article/view/101)

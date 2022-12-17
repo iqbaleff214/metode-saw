@@ -6,3 +6,6 @@ php-run:
 
 node-run:
 	node ./js/main.js
+
+ruby-run:
+	ruby ./ruby/main.rb
