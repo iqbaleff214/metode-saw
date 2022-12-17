@@ -43,6 +43,7 @@ Untuk menjalankan program, silakan gunakan CLI yang biasa Anda gunakan. Berikut 
     ```sh
     make go-run
     ```
+    *) rekomendasi: `go1.19`
 
 
 ## Referensi
